@@ -13,3 +13,6 @@ a-b
 
 #Division
 a/b
+
+#Multiplication
+a*b
